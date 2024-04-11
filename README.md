@@ -1,0 +1,2 @@
+This repository creates customized plots for analysis of the MGA/SPORES solutions derived from the study on European energy system.
+The original data can be found [here](https://zenodo.org/records/6546817).
